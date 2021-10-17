@@ -1,0 +1,112 @@
+body {
+    font-family: "Roboto";
+    background-image: url("assets/topography.png");
+    
+}
+
+.név {
+    font-size: 45px;
+    text-align: left;
+    font-weight: bolder;
+    font-family: "Andada Pro";
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+.title {
+    color: rgb(202, 16, 146);
+    font-size: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.threerows {
+    text-align: center;
+    margin: 30px;
+}
+
+.introduce {
+    font-family: "Special Elite";
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.technologywiki {
+    font-family: "Andada Pro";
+    font-weight: bold;
+    text-align: center;
+    font-size: 23px;
+}
+
+.instruction-set {
+    font-family: "Andada Pro";
+    font-weight: bold;
+    font-size: 21px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.set2 {
+    font-family: "Andada Pro";
+    font-weight: bold;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 21px;
+    
+}
+
+.loremipsum {
+    font-family: "Andada Pro"; 
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+.intro-set {
+    font-family: "Andada Pro"; 
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 150px;
+}
+
+.navbar {
+    background-color: black;
+    word-spacing: 30px;
+    
+}
+
+li {
+    display: inline;
+
+}
+
+a {
+    color: rgb(202, 16, 146);
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+
+}
+
+.logo {
+    margin-left: 100px;
+    padding-right: 550px;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;   
+    vertical-align: middle; 
+}
+.lista{
+    margin-right: 30px;
+}
+a:hover {
+    color: green;
+}
+.background-image {
+    background-position: center;
+    background-repeat: no-repeat;
+}
